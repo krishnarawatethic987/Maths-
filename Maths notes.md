@@ -1,6 +1,6 @@
 # A Beginner's Journey into Matrix Land
 
-Welcome to **Matrix Land**, where numbers live in orderly rows and columns called **matrices**. The shape or **order** of a matrix tells us how many rows and columns it has (e.g., 3 Ã— 2 means 3 rows and 2 columns).
+Welcome to **Matrix Land**, where numbers live in orderly rows and columns called **matrices**. The shape or **order** of a matrix tells us how many rows and columns it has (e.g., 3 × 2 means 3 rows and 2 columns).
 
 ## The Flip Trick: Transpose
 In this land, matrices have a special move called the **transpose**, which flips rows into columns. The rules are simple:
