@@ -1,4 +1,3 @@
-
 # A Beginner's Journey into Matrix Land
 
 Welcome to **Matrix Land**, where numbers live in orderly rows and columns called **matrices**. The shape or **order** of a matrix tells us how many rows and columns it has (e.g., 3 Ã— 2 means 3 rows and 2 columns).
@@ -25,7 +24,7 @@ Other notable residents:
 - **Involutory Matrices**: Squaring turns them into the identity matrix \((A^2 = I)\).
 
 ## The Adjoint and Trace
-The **adjoint** is the matrixâ€™s assistant:
+The **adjoint** is the matrix assistant:
 - Multiplying a matrix with its adjoint results in the determinant times the identity matrix.
 
 Finally, the **trace** is the sum of diagonal elements, also equal to the sum of eigenvalues. Key rules:
