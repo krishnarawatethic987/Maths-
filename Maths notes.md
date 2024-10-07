@@ -20,11 +20,11 @@ Other notable residents:
 - **Diagonal Matrices**: Only diagonal elements matter.
 - **Identity Matrices (I)**: 1s on diagonal, 0s elsewhere.
 - **Orthogonal Matrices**: Multiply with their transpose to get the identity matrix.
-- **Idempotent Matrices**: Squaring doesnâ€™t change them (A<sup>2</sup> = A).
+- **Idempotent Matrices**: Squaring doesn't change them (A<sup>2</sup> = A).
 - **Involutory Matrices**: Squaring turns them into the identity matrix (A<sup>2</sup> = I).
 
 ## The Adjoint and Trace
-The **adjoint** is the matrixâ€™s assistant:
+The **adjoint** is the matrix's assistant:
 - Multiplying a matrix with its adjoint results in the determinant times the identity matrix.
 
 Finally, the **trace** is the sum of diagonal elements, also equal to the sum of eigenvalues. Key rules:
