@@ -11,7 +11,7 @@ In this land, matrices have a special move called the **transpose**, which flips
 ## Special Residents of Matrix Land
 Matrix Land has some unique types:
 - **Singular Matrices**: Determinant = 0 (inactive).
-- **Nonsingular Matrices**: Determinant â‰  0 (active).
+- **Nonsingular Matrices**: Determinant ≠ 0 (active).
 - **Square Matrices**: Rows = Columns.
 
 Other notable residents:
